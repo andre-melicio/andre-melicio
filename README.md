@@ -36,11 +36,10 @@
 </picture>
 </div>
 ##
-<div align="center"> 
 
-</div>
-<div align="center">
 ###  Content Creation 🙇‍♂️
+<div align="center">
+
 <a href="#"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/andre-melicio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://api.whatsapp.com/send?phone=5514991439320&text=%F0%9F%8C%9F%20Ol%C3%A1!%20Estava%20passando%20pelo%20seu%20GitHub%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20e%20vi%20seu%20perfil%20%F0%9F%91%80."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
