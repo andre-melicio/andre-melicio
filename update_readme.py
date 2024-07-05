@@ -20,12 +20,13 @@ def update_readme(recent_repos):
     with open("README.md", "r") as file:
         readme = file.read()
 
-    projects_section = "## 🚀 Projetos Recentes\n"
+    projects_section = "## 🚀 Projetos Recentes\n\n<!--START_SECTION:projects-->\n"
     for repo in recent_repos:
         projects_section += f"\n### [{repo['name']}]({repo['html_url']})\n"
         projects_section += f"{repo['description']}\n"
+    projects_section += "\n<!--END_SECTION:projects-->\n"
 
-    new_readme = readme.split("## 🚀 Projetos Recentes\n")[0] + projects_section + readme.split("## 🚀 Projetos Recentes\n")[1].split("\n###")[1]
+    new_readme = readme.split("<!--START_SECTION:projects-->")[0] + projects_section + readme.split("<!--END_SECTION:projects-->")[1]
 
     with open("README.md", "w") as file:
         file.write(new_readme)
