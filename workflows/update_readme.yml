@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3  # Atualizado para a versão v3
+        uses: actions/checkout@v3  # Atualize para v3
 
       - name: Set up Python
-        uses: actions/setup-python@v4  # Atualizado para a versão v4
+        uses: actions/setup-python@v4  # Atualize para v4
         with:
           python-version: '3.x'
 
