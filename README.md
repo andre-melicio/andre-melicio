@@ -5,16 +5,36 @@
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-melicio&show_icons=true&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-[![Ronnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-melicio&show_icons=true&theme=merko&align='right')](https://github.com/anuraghazra/github-readme-stats)
+[![andre-melicio's GitHub stats](https://github-readme-stats.vercel.app/api?username=andre-melicio&show_icons=true&theme=merko&align='right')](https://github.com/anuraghazra/github-readme-stats)
 --> 
 
 <p align="">
-<a href="https://github.com/andre-melicio">
+<a href="https://beacons.ai/andre_melicio">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andre-melicio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andre-melicio&layout=compact&langs_count=8&theme=merko"/>
 </a>
 </p>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="andre-melicio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="andre-melicio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="andre-melicio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="andre-melicio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="andre-melicio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="andre-melicio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="andre-melicio-postgresq" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+          
+</div>
+
+##
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andre-melicio/andre-melicio/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andre-melicio/andre-melicio/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andre-melicio/andre-melicio/output/github-contribution-grid-snake.svg">
+</picture>
+<!-- 
 ###  Content Creation 🙇‍♂️
 <a href="https://blog.octachart.com"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UC8gsxBsDvO5xN5ZCHRrUIxw/videos"><img src="https://img.shields.io/badge/youtube-2962FF?style=for-the-badge&logo=youtube&logoColor=red"></a>
@@ -49,6 +69,7 @@
 
 </p>
 <br>
+--> 
 <!--
 **andre-melicio/andre-melicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
