@@ -48,14 +48,16 @@ Sou um entusiasta da tecnologia e um desenvolvedor apaixonado por resolver probl
 
 ## 🚀 Projetos Recentes
 
-### [Projeto 1](https://github.com/andre-melicio/projeto1)
+<!--START_SECTION:projects-->
+### Projeto 1
 Descrição breve do projeto. Destaque para tecnologias utilizadas, desafios enfrentados e soluções implementadas.
 
-### [Projeto 2](https://github.com/andre-melicio/projeto2)
+### Projeto 2
 Descrição breve do projeto. Destaque para tecnologias utilizadas, desafios enfrentados e soluções implementadas.
 
-### [Projeto 3](https://github.com/andre-melicio/projeto3)
+### Projeto 3
 Descrição breve do projeto. Destaque para tecnologias utilizadas, desafios enfrentados e soluções implementadas.
+<!--END_SECTION:projects-->
 
 ## 📫 Como me Encontrar
 <div align="">
