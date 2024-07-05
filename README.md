@@ -1,11 +1,25 @@
-# 👋 Olá, eu sou André Luiz Melício
+# 🚀 Olá! Que bom te ver por aqui! 💻🥹
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andre%20Luiz%20Melicio-blue)](https://www.linkedin.com/in/andre-luiz-melicio-991482244/)
-[![GitHub](https://img.shields.io/badge/GitHub-andre--melicio-lightgrey)](https://github.com/andre-melicio)
+
+<div align="right">
+  <a href="https://www.linkedin.com/in/andre-luiz-melicio-991482244/">
+    <img src="https://img.shields.io/badge/LinkedIn-Andre%20Luiz%20Melicio-blue" alt="LinkedIn">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=andre-melicio&color=lightgrey" alt="GitHub Profile Views">
+</div>
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&color=000000&vCenter=true&width=800&lines=</>++Olá,+eu+sou+André+Luiz+Melício!;</>++Bem-vindo+ao+meu+GitHub.+Espero+que+goste!;Você+também+curte+programação?+💻🤓)](https://git.io/typing-svg)
+
+
+
+
+
 
 ## Sobre Mim
 
-Sou um entusiasta da tecnologia e um desenvolvedor apaixonado por resolver problemas complexos através de soluções inovadoras. Tenho experiência em diversas linguagens de programação e frameworks, e estou sempre em busca de novos conhecimentos e desafios.
+👨‍💻 Sou um estudante de tecnologia apaixonado por resolver problemas complexos através de soluções inovadoras. Tenho experiência em algumas linguagens de programação e frameworks, e estou sempre em busca de novos conhecimentos e desafios.
 
 ## 🛠️ Habilidades Técnicas
 
@@ -41,16 +55,9 @@ Sou um entusiasta da tecnologia e um desenvolvedor apaixonado por resolver probl
 </div>
 
 ## 🚀 Projetos Recentes
-
+### 🚧 Em construção... 🚧
+## 🛠️ fique ligado para mais atualizações! 🚀  
 <!--START_SECTION:projects-->
-### Projeto 1
-Descrição breve do projeto. Destaque para tecnologias utilizadas, desafios enfrentados e soluções implementadas.
-
-### Projeto 2
-Descrição breve do projeto. Destaque para tecnologias utilizadas, desafios enfrentados e soluções implementadas.
-
-### Projeto 3
-Descrição breve do projeto. Destaque para tecnologias utilizadas, desafios enfrentados e soluções implementadas.
 <!--END_SECTION:projects-->
 
 ## 📫 Como me Encontrar
@@ -58,4 +65,4 @@ Descrição breve do projeto. Destaque para tecnologias utilizadas, desafios enf
 <a href="#"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/andre-melicio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://api.whatsapp.com/send?phone=5514991439320&text=%F0%9F%8C%9F%20Ol%C3%A1!%20Estava%20passando%20pelo%20seu%20GitHub%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20e%20vi%20seu%20perfil%20%F0%9F%91%80."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
- </div>
+</div>
