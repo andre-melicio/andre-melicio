@@ -14,7 +14,6 @@ Sou um entusiasta da tecnologia e um desenvolvedor apaixonado por resolver probl
 - **Bancos de Dados**: MySQL, PostgreSQL, Oracle
 - **Outros**: AWS, Azure, Git
 
-
 ## 📈 Estatísticas do GitHub
 <p align="center">
   <a href="https://beacons.ai/andre_melicio">
@@ -23,10 +22,6 @@ Sou um entusiasta da tecnologia e um desenvolvedor apaixonado por resolver probl
   </a>
 </p>
 
-
-
-
-##
 <div align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andre-melicio/andre-melicio/output/github-contribution-grid-snake-dark.svg">
@@ -44,7 +39,6 @@ Sou um entusiasta da tecnologia e um desenvolvedor apaixonado por resolver probl
   <img align="center" alt="andre-melicio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="andre-melicio-postgresq" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />      
 </div>
-
 
 ## 🚀 Projetos Recentes
 
@@ -65,4 +59,3 @@ Descrição breve do projeto. Destaque para tecnologias utilizadas, desafios enf
 <a href="https://www.linkedin.com/in/andre-melicio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://api.whatsapp.com/send?phone=5514991439320&text=%F0%9F%8C%9F%20Ol%C3%A1!%20Estava%20passando%20pelo%20seu%20GitHub%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%20e%20vi%20seu%20perfil%20%F0%9F%91%80."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  </div>
-
