@@ -1,4 +1,4 @@
-# 🚀 Olá! Que bom te ver por aqui! 💻🥹
+# 🚀 Olá! Que bom te ver por aqui! 💻🥹 
 
 
 <div align="right">
